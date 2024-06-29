@@ -1,8 +1,6 @@
 # Shop_HomePage
 Pure Django
 
-# Shop_HomePage
-Pure Django
 
 Welcome to the Shop Web Application! This project is a simple yet functional e-commerce web application with basic features such as adding items to a cart, user authentication (login, log out, register), and managing the cart (removing items, showing the number of items, and displaying the total price).
 
